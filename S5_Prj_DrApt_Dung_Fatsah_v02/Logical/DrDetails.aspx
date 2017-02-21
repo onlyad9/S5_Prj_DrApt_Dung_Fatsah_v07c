@@ -36,7 +36,7 @@
                 <asp:Label ID="Label4" runat="server" Text="Address:"></asp:Label>
             </td>
             <td>
-                <asp:TextBox ID="TextBox3" runat="server" TextMode="MultiLine" Width="210px" Height="69px"></asp:TextBox>
+                <asp:TextBox ID="TextBox3" runat="server" TextMode="MultiLine" Width="200px" Height="69px"></asp:TextBox>
             </td>
             <td>&nbsp;</td>
         </tr>

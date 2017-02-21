@@ -5,13 +5,13 @@
     </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
     <div>
-        <asp:Label ID="Label1" runat="server" Font-Size="X-Large" Font-Underline="True" ForeColor="#229EE2" Text="Feedback"></asp:Label>
+        <asp:Label ID="Label1" runat="server" Font-Size="X-Large" Font-Underline="True" ForeColor="#229EE2" Text="Patient Feedback"></asp:Label>
         <br />
         <br />
         <br />
         <asp:Label ID="Label2" runat="server" Text="Feedback:"></asp:Label>
         <br />
-        <asp:TextBox ID="TextBox1" runat="server" Height="58px" TextMode="MultiLine" Width="440px"></asp:TextBox>
+        <asp:TextBox ID="TextBox1" runat="server" Height="139px" TextMode="MultiLine" Width="375px"></asp:TextBox>
         <br />
         <br />
         <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Submit" />

@@ -89,7 +89,7 @@
                 <asp:Label ID="Label11" runat="server" Text="Blood Group:"></asp:Label>
             </td>
             <td>
-                <asp:DropDownList ID="DropDownList2" runat="server" Height="16px" Width="100px">
+                <asp:DropDownList ID="DropDownList2" runat="server">
                     <asp:ListItem>A +</asp:ListItem>
                     <asp:ListItem>A -</asp:ListItem>
                     <asp:ListItem>B +</asp:ListItem>

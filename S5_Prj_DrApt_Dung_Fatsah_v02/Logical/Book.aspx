@@ -9,7 +9,7 @@
 
         <br />
         <asp:Label ID="Label1" runat="server" Font-Size="X-Large" Font-Underline="True"
-            Text="New Appointment" ForeColor="#229EE2"></asp:Label>
+            Text="Booking New Appointment" ForeColor="#229EE2"></asp:Label>
         <br />
         <br />
         <table class="auto-style1">
@@ -42,8 +42,8 @@
                     <asp:Label ID="Label9" runat="server" Text="Doctor Name:"></asp:Label>
                 </td>
                 <td>
-                    <asp:DropDownList ID="DropDownList3" runat="server" Height="25px"
-                        Style="margin-left: 1px" Width="123px">
+                    <asp:DropDownList ID="DropDownList3" runat="server"
+                        Style="margin-left: 1px">
                         <asp:ListItem>--Select--</asp:ListItem>
                     </asp:DropDownList>
                 </td>

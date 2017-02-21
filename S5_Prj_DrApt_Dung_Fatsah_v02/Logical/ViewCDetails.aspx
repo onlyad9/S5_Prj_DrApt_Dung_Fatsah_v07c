@@ -47,7 +47,7 @@
                     <asp:Label ID="Label4" runat="server" Text="Address:"></asp:Label>
                 </td>
                 <td>
-                    <asp:TextBox ID="TextBox3" runat="server" Height="69px" TextMode="MultiLine" Width="210px"></asp:TextBox>
+                    <asp:TextBox ID="TextBox3" runat="server" Height="69px" TextMode="MultiLine" Width="200px"></asp:TextBox>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -79,7 +79,7 @@
                 </td>
                 <td>
 
-                    <asp:DropDownList ID="DropDownList1" runat="server" Height="35px" Width="89px">
+                    <asp:DropDownList ID="DropDownList1" runat="server">
                         <asp:ListItem>Male</asp:ListItem>
                         <asp:ListItem>Female</asp:ListItem>
                     </asp:DropDownList>
@@ -100,7 +100,7 @@
                     <asp:Label ID="Label11" runat="server" Text="Bloog Group:"></asp:Label>
                 </td>
                 <td>
-                    <asp:DropDownList ID="DropDownList2" runat="server" Height="16px" Width="100px">
+                    <asp:DropDownList ID="DropDownList2" runat="server">
                         <asp:ListItem>A +</asp:ListItem>
                         <asp:ListItem>A -</asp:ListItem>
                         <asp:ListItem>B +</asp:ListItem>
