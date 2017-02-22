@@ -20,7 +20,7 @@
             <td>
                 <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
                     <asp:ListItem>Name</asp:ListItem>
-                    <asp:ListItem>Type</asp:ListItem>
+                    <asp:ListItem>Category</asp:ListItem>
                 </asp:DropDownList>
             </td>
         </tr>
