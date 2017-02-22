@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace S5_Prj_DrApt_Dung_Fatsah_v02
 {
-    public partial class Login : System.Web.UI.Page
+    public partial class About : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
