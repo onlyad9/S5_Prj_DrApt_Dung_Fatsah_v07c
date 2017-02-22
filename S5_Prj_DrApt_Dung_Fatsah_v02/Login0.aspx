@@ -17,11 +17,11 @@
         <table  style="padding-left: 50px; margin-left: 213px;">
 
        <tr>
-           <td ><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Account/Help.aspx"><img src="images/helpRedBtn.jpg" /></asp:HyperLink></td>
-       <td ><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Account/AdminLogin.aspx"><img src="images/adminLoginRedBtn.jpg" /></asp:HyperLink></td>
-       <td><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Account/DrLogin.aspx"><img src="images/doctorLoginBlueBtn.jpg" /></asp:HyperLink></td>
-       <td ><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Account/CLogin.aspx"><img src="images/patientLoginGreenBtn.jpg" /></asp:HyperLink></td>
-           <td ><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Account/CReg.aspx"><img src="images/patientRegisterYellowBtn2.jpg" /></asp:HyperLink></td>
+           <td ><asp:HyperLink ID="HyperLink10" runat="server" NavigateUrl="~/Account/Help.aspx"><img src="images/helpRedBtn.jpg" /></asp:HyperLink></td>
+       <td ><asp:HyperLink ID="HyperLink11" runat="server" NavigateUrl="~/Account/AdminLogin.aspx"><img src="images/adminLoginRedBtn.jpg" /></asp:HyperLink></td>
+       <td><asp:HyperLink ID="HyperLink12" runat="server" NavigateUrl="~/Account/DrLogin.aspx"><img src="images/doctorLoginBlueBtn.jpg" /></asp:HyperLink></td>
+       <td ><asp:HyperLink ID="HyperLink13" runat="server" NavigateUrl="~/Account/CLogin.aspx"><img src="images/patientLoginGreenBtn.jpg" /></asp:HyperLink></td>
+           <td ><asp:HyperLink ID="HyperLink14" runat="server" NavigateUrl="~/Account/CReg.aspx"><img src="images/patientRegisterYellowBtn2.jpg" /></asp:HyperLink></td>
        </tr>
         </table> 
         <br />
