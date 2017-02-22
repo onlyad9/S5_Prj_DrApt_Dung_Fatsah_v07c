@@ -18,12 +18,13 @@ namespace S5_Prj_DrApt_Dung_Fatsah_v02.Logical
             string com = "select top 1 DId From Doctor ORDER BY DId Desc;";
             con.Open();
             cmd = new SqlCommand(com, con);
-            SqlCommand cmd2;
-            string com2 = "select top 1 CId From Cate ORDER BY CId Desc;";
-            cmd2 = new SqlCommand(com2, con);
             object count = cmd.ExecuteScalar();
-            object count2 = cmd2.ExecuteScalar();
-            if (count != null && count2 != null)
+            //SqlCommand cmd2;
+            //string com2 = "select top 1 CId From Cate ORDER BY CId Desc;";
+            //cmd2 = new SqlCommand(com2, con);
+            
+            //object count2 = cmd2.ExecuteScalar();
+            if (count != null )
             {
                 int i = Convert.ToInt32(count);
                 i++;
