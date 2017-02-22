@@ -89,7 +89,7 @@
                                 <li><a runat="server" href="~/Logical/ViewDr">View Dr</a></li>
                                 <li><a runat="server" href="~/Logical/ViewC">View All Patients</a></li>
                                 <li><a runat="server" href="~/Logical/ViewApp">View All App</a></li>
-                                <li><a runat="server" href="~/Logical/ViewFeed">View All Patients Feedback</a></li>
+                                <li><a runat="server" href="~/Logical/ViewFeed">View All Feedback</a></li>
 
                             </ul>
                         </asp:Panel>
